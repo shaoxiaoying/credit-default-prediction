@@ -64,7 +64,7 @@ cd credit-risk-modelling
 # Install dependencies
 pip install -r requirements.txt
 
-3. Pipeline Execution
+### 3. Pipeline Execution
 Bash
 # Train the model pipeline
 python src/train.py
